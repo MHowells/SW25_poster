@@ -1,7 +1,11 @@
 # Clinical Pathway Modelling of a Trauma and Orthopaedics Department
 This repository contains information surrounding the poster titled "Clinical 
 Pathway Modelling of a Trauma and Orthopaedics Department" presented at The 
-OR Society's 12<sup>th</sup> Simulation Workshop (SW25) conference.
+OR Society's 12<sup>th</sup> Simulation Workshop (SW25) conference. It contains:
+- The poster itself, in PDF format
+- All repositories referenced in the poster
+- Contact information for the author
+- References used in the poster
 
 ## Repositories Referenced in the Poster
 The following repositories are referenced in the poster:
